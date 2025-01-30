@@ -1,8 +1,8 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Don't Remove Credit Tg - @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
 # Ask Doubt on telegram @KingVJ01
 
-# Clone Code Credit : YT - @Tech_VJ / TG - @VJ_Bots / GitHub - @VJBots
+# Clone Code Credit : YT - @RockingTamilans / TG - @Quality_Bots / GitHub - @VJBots
 
 import re
 from Script import script
