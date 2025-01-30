@@ -1,6 +1,6 @@
 # Don't Remove Credit @Quality_Links
 # Subscribe YouTube Channel For Amazing Bot @RockingTamilans
-# Ask Doubt on telegram @tamilians01
+# Ask Doubt on telegram @tamilian01
 
 from pyrogram import Client, filters
 
