@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
+# Ask Doubt on telegram @tamilian01
 
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
@@ -64,9 +64,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
 
-    # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
+# Ask Doubt on telegram @tamilian01
 
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
@@ -101,9 +101,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
+# Ask Doubt on telegram @tamilian01
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
@@ -244,9 +244,10 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>[@Tamilan_Rocks] - {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>👉 Subscribe to our YouTube Channel - https://www.youtube.com/@RockingTamilans
+🆔 @Team_Rockers 👈 Main Channel Join Panikonga❤</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -746,9 +747,9 @@ Example:- /set_caption 📕 File Name: {filename}
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b>"""
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
+# Ask Doubt on telegram @tamilian01
 
 
     
