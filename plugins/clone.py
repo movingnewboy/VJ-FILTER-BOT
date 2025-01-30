@@ -2,7 +2,7 @@
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@RockingTamilans
 # Ask Doubt on telegram @tamilian01
 
-# Clone Code Credit : YT - @RockingTamilans / TG - @Quality_Bots / GitHub - @VJBots
+# Clone Code Credit : YT - @RockingTamilans / TG - @Quality_Bots / GitHub - @Quality_Bots
 
 import re
 from Script import script
