@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Quality_Bots
+# Subscribe YouTube Channel For Amazing Bot @RockingTamilans
+# Ask Doubt on telegram @tamilian01
 
 import re, os, json, base64, logging
 from utils import temp
@@ -36,10 +36,10 @@ async def gen_link_s(bot, message):
 @Client.on_message(filters.command(['batch', 'pbatch']) & filters.create(allowed))
 async def gen_link_batch(bot, message):
     if " " not in message.text:
-        return await message.reply("Use correct format.\nExample <code>/batch https://t.me/VJ_Botz/10 https://t.me/VJ_Botz/20</code>.")
+        return await message.reply("Use correct format.\nExample <code>/batch https://t.me/Quality_Bots/10 https://t.me/Quality_Bots/20</code>.")
     links = message.text.strip().split(" ")
     if len(links) != 3:
-        return await message.reply("Use correct format.\nExample <code>/batch https://t.me/VJ_Botz/10 https://t.me/VJ_Botz/20</code>.")
+        return await message.reply("Use correct format.\nExample <code>/batch https://t.me/Quality_Bots/10 https://t.me/Quality_Bots/20</code>.")
     cmd, first, last = links
     regex = re.compile("(https://)?(t\.me/|telegram\.me/|telegram\.dog/)(c/)?(\d+|[a-zA-Z_0-9]+)/(\d+)$")
     match = regex.match(first)
