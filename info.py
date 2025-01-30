@@ -193,6 +193,6 @@ else:
     SEC_FILE_DB_URI = S_DB_URI    # This Db is for File Data Store When First Db Is Going To Be Full.
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Quality_Links
+# Subscribe YouTube Channel For Amazing Bot @RockingTamilans
+# Ask Doubt on telegram @tamilian01
