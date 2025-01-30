@@ -1,6 +1,6 @@
 # Don't Remove Credit @Quality_Bots
 # Subscribe YouTube Channel For Amazing Bot @RockingTamilans
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @tamilan01
 
 # Clone Code Credit : YT - @RockingTamilans / TG - @Quality_Bots / GitHub - @Quality_Bots
 
