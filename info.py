@@ -11,8 +11,8 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechQLBot')
-API_ID = int(environ.get('API_ID', '1742807576'))
-API_HASH = environ.get('API_HASH', 'f19aed00b0c74abed0359016afc1733f')
+API_ID = int(environ.get('API_ID', '18141580'))
+API_HASH = environ.get('API_HASH', '701853e8fdb36fb8b6b1e978e1a45295')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6128151012:AAHPPwc_SVOd80gQcgDfTDPbkIpKgVJi8_c")
 
 
@@ -21,8 +21,8 @@ PICS = (environ.get('PICS', 'https://i.ibb.co/GvkBnVJ1/1000006226.jpg')).split()
 
 
 # Admins & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6128151012 1109543851 807374433').split()] # For Multiple Id Use One Space Between Each.
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6128151012 807374433 1109543851').split()]  # For Multiple Id Use One Space Between Each.
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1742807576 6128151012 1109543851 807374433').split()] # For Multiple Id Use One Space Between Each.
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1742807576 6128151012 807374433 1109543851').split()]  # For Multiple Id Use One Space Between Each.
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # This Channel Is For When User Start Your Bot Then Bot Send That User Name And Id In This Log Channel, Same For Group Also.
