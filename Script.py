@@ -244,10 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>[@Tamilan_Rocks] - {file_name}
+    CAPTION = """<b>[@Tamilan_Rocks] - {file_name}</b>
 
-<b>👉 Subscribe to our YouTube Channel - https://www.youtube.com/@RockingTamilans
-🆔 @Team_Rockers 👈 Main Channel Join Panikonga❤</b>""" 
+<b>👉 Subscribe to our YouTube Channel - https://www.youtube.com/@RockingTamilans \n\n🆔 @Team_Rockers 👈 Main Channel Join Panikonga❤</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
