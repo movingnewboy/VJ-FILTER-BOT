@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '+hQF-Vl-dviQwMGU1') # 
 GRP_LNK = environ.get('GRP_LNK', 't.me/+Dooa5Za8px81ZTQ1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Tamilan_Rocks')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'QTL_UPDATES03') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/QTL_UPDATES03')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/tamilian01')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
