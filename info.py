@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'TechQLBot')
 API_ID = int(environ.get('API_ID', '18141580'))
 API_HASH = environ.get('API_HASH', '701853e8fdb36fb8b6b1e978e1a45295')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6128151012:AAHPPwc_SVOd80gQcgDfTDPbkIpKgVJi8_c")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
@@ -113,8 +113,8 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'modijiurl.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '0f7f8b24825560cc57765f8fcc04b9aafacf8c43')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'krownlinks.com')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '4e4184f6cc1e896924d65afb0deac87ec06231ca')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/public_download/16')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
